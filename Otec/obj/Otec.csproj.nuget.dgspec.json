@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Nbsanch555\\Desktop\\Carrasco-Tapia\\Otec\\Otec.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Nbsanch555\\Desktop\\Carrasco-Tapia\\OtecLibrary\\OtecLibrary.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nbsanch555\\Desktop\\Carrasco-Tapia\\OtecLibrary\\OtecLibrary.csproj",
+        "projectName": "OtecLibrary",
+        "projectPath": "C:\\Users\\Nbsanch555\\Desktop\\Carrasco-Tapia\\OtecLibrary\\OtecLibrary.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Nbsanch555\\Desktop\\Carrasco-Tapia\\Otec\\Otec.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nbsanch555\\Desktop\\Carrasco-Tapia\\Otec\\Otec.csproj",
+        "projectName": "Otec",
+        "projectPath": "C:\\Users\\Nbsanch555\\Desktop\\Carrasco-Tapia\\Otec\\Otec.csproj",
+        "packagesPath": "C:\\Users\\Nbsanch555\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nbsanch555\\Desktop\\Carrasco-Tapia\\Otec\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nbsanch555\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Nbsanch555\\Desktop\\Carrasco-Tapia\\OtecLibrary\\OtecLibrary.csproj": {
+                "projectPath": "C:\\Users\\Nbsanch555\\Desktop\\Carrasco-Tapia\\OtecLibrary\\OtecLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
